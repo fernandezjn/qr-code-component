@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/fernandezjn/qr-code-component](https://your-solution-url.com)
-- Live Site URL: [https://fernandezjn.github.io/qr-code-component/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fernandezjn/qr-code-component](https://github.com/fernandezjn/qr-code-component)
+- Live Site URL: [https://fernandezjn.github.io/qr-code-component/](https://fernandezjn.github.io/qr-code-component)
 
 ## My process
 
